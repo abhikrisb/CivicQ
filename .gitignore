@@ -1,2 +1,5 @@
 # Ignore the assignment PDF
 Neural-City-GenAI-Intern-Assignment.pdf
+
+# Python cache
+__pycache__/
